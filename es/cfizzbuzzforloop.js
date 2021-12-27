@@ -6,7 +6,7 @@ function cfizzbuzzforloop(n){
        console.log("fizz")
        if (n%5==0)
        console.log("buzz")
-       else()
+    //    else()
    }
 }
 cfizzbuzzforloop(15)
