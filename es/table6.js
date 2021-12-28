@@ -1,5 +1,6 @@
-function table4(x){
-    for(i=1; i<=10; i++){
-        console.log(x*i)}
+function table7(n){
+    for(i=1;i<=10;i++){
+        console.log(n*i)
+    }
 }
-table4(4)
+table7(8)

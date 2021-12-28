@@ -8,5 +8,4 @@ function primeComposite(num){
         }
     }return 'Prime'
 }
-console.log(primeComposite(21));
-// function positivenagative(n)
+console.log(primeComposite(3));

@@ -1,8 +1,8 @@
-function odev (x){
-    if (!x%2==0){
-    console.log("odd")}
-    else{console.log("even")
+function odeven(x){
+     if( x%2==0) {
+        return 'even';
+     }{
+         return 'odd'
+     }
 }
-    
-}
-odev(5)
+console.log(odeven(5))
